@@ -75,8 +75,8 @@
 
 ```json
 {
-  "chatgpt_email": "email@ornek.com",
-  "chatgpt_password": "", 
+  "chatgpt_email": "email@ornek_ruhi.com",
+  "chatgpt_password": "ruhi123", 
   "chrome_driver_path": "C:/WebDriver/bin/chromedriver.exe"
 }
 ```
