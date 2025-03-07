@@ -73,6 +73,7 @@
 ### Bağlantı Ayarları
 `ayarlar.json` dosyasında ChatGPT bağlantı bilgilerini düzenleyebilirsiniz:
 
+Örnek:
 ```json
 {
   "chatgpt_email": "email@ornek_ruhi.com",
