@@ -81,7 +81,7 @@
 }
 ```
 
-### Simgeler ve Görsel Öğeler
+### Simgeler ve Görsel Öğeler (Eklenecek)
 - `model` klasöründeki SVG ve PNG dosyalarını değiştirebilirsiniz
 - Kendi 3B modelinizi `model/karakter.obj` olarak ekleyebilirsiniz
 
