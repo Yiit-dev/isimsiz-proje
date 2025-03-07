@@ -19,7 +19,7 @@
 
 ---
 
-## 🔧 Kurulum
+## Kurulum
 
 ### Ön Gereksinimler
 - Python 3.8 veya daha yeni bir sürüm
