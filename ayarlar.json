@@ -1,0 +1,44 @@
+{
+    "chatgpt_email": "",
+    "chatgpt_password": "",
+    "chrome_driver_path": "",
+    "sistem": {
+        "tema": "koyu",
+        "varsayilan_mod": "normal",
+        "ses_hizi": 150,
+        "ses_volumu": 1.0,
+        "mikrofon_hassasiyeti": 4000,
+        "dil": "tr-TR",
+        "pencere_genisligi": 1000,
+        "pencere_yuksekligi": 600
+    },
+    "konusma_modlari": {
+        "normal": {
+            "aktif": true,
+            "prompt": "Lütfen günlük ve sıradan bir dil kullanarak cevap ver"
+        },
+        "edebi": {
+            "aktif": false,
+            "prompt": "Lütfen sanatkarane ve edebi bir dil kullanarak cevap ver."
+        },
+        "ogretici": {
+            "aktif": false,
+            "prompt": "Lütfen öğretici ve açıklayıcı bir dil kullanarak adım adım cevap ver."
+        }
+    },
+    "ozellikler": {
+        "detayli_dusunme": false,
+        "web_arama": false,
+        "markdown_format": false
+    },
+    "klasorler": {
+        "model_klasoru": "model",
+        "ses_klasoru": "ses"
+    },
+    "tarayici": {
+        "gorunur": false,
+        "kuki_sakla": true,
+        "gecmis_temizle": false,
+        "timeout": 30
+    }
+} 
