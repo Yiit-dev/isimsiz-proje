@@ -1,7 +1,4 @@
 {
-    "chatgpt_email": "",
-    "chatgpt_password": "",
-    "chrome_driver_path": "",
     "sistem": {
         "tema": "koyu",
         "varsayilan_mod": "normal",
@@ -12,10 +9,17 @@
         "pencere_genisligi": 1000,
         "pencere_yuksekligi": 600
     },
+    "model": {
+        "dosya": "hologram.obj",
+        "konum": "model/",
+        "agiz_animasyon_hizi": 20,
+        "agiz_max_aciklik": 100,
+        "otomatik_yukle": true
+    },
     "konusma_modlari": {
         "normal": {
             "aktif": true,
-            "prompt": "Lütfen günlük ve sıradan bir dil kullanarak cevap ver"
+            "prompt": ""
         },
         "edebi": {
             "aktif": false,
@@ -35,10 +39,11 @@
         "model_klasoru": "model",
         "ses_klasoru": "ses"
     },
-    "tarayici": {
-        "gorunur": false,
-        "kuki_sakla": true,
-        "gecmis_temizle": false,
-        "timeout": 30
+    "arayuz": {
+        "maksimum_sohbet_sayisi": 10,
+        "varsayilan_sohbet_basligi": "Yeni Sohbet",
+        "mesaj_gecmisi_limiti": 50,
+        "animasyon_hizi": 300,
+        "yanit_simulasyon_suresi": 2
     }
 } 
